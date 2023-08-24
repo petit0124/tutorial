@@ -1,1 +1,9 @@
+<<<<<<< Updated upstream
+<<<<<<< HEAD
 new add 23132123  fefe37
+=======
+new add 23132123  fefe35
+>>>>>>> 6c197f0 (txt)
+=======
+new add 23132123  fefe35
+>>>>>>> Stashed changes
