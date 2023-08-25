@@ -1,10 +1,1 @@
-<<<<<<< Updated upstream
 123456786tttttttt2
-=======
-<<<<<<< ours
-123456786tttttttt1
->>>>>>> Stashed changes
-fefef
-=======
-123456786tttttttt2
->>>>>>> theirs
