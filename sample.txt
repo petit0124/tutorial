@@ -1,6 +1,2 @@
 1231231276adddrtttttttt
-<<<<<<< Updated upstream
-rrrrrr
-=======
-llllll
->>>>>>> Stashed changes
+rrrrrrrr
